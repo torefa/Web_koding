@@ -1,2 +1,2 @@
 # Web_koding
-Smaling av web-trening
+Samling av web-trening
